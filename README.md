@@ -16,8 +16,6 @@ A self-hosted file/media sharing website. Its primary use is for temporay file h
 - Documented API with keys for restricting uploads
 - Torrent download of files using web seeding
 - File expiry, deletion key, file access key, and random filename options
-- File previews are now supported for sites like Twitter and Discord
-- Files are locked when uploading to prevent tampering
 
 
 ### What I've inproved
@@ -27,6 +25,8 @@ A self-hosted file/media sharing website. Its primary use is for temporay file h
 
 
 ### Coming soon!
+- File previews are now supported for sites like Twitter and Discord - v3.1.0
+- Files locked when uploading to prevent tampering - v3.1.0
 - Improve how password protected files are handled - v3.1.0
 - Add support for displaying RAW text - v3.2.0
 - Support generating QR codes - v3.3.0
