@@ -241,7 +241,7 @@ The official IRC channel is #linx on irc.oftc.net
 Credits
 ----------
 Original author: https://github.com/andreimarcu/linx-server
-Forked from: https://github.com/ZizzyDizzyMC/linx-server
+Note: not actually forked from: https://github.com/ZizzyDizzyMC/linx-server however some code was used!
 https://github.com/xtrafrancyz (Migration from rice to go:embed)
 
 
