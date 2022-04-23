@@ -28,6 +28,7 @@ A self-hosted file/media sharing website. Its primary use is for temporay file h
 - File previews are now supported for sites like Twitter and Discord - v3.1.0
 - Files locked when uploading to prevent tampering - v3.1.0
 - Improve how password protected files are handled - v3.1.0
+- Updater - v3.1.0 or v3.2.0
 - Add support for displaying RAW text - v3.2.0
 - Support generating QR codes - v3.3.0
 - Reduce the amount of CSS used to improve loading speeds - Ongoing
