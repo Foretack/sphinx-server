@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block head %}
+<meta property="og:audio" content="{{ siteurl }}{{ sitepath }}{{ selifpath }}{{ filename }}" />
+<meta property="og:audio:secure_url" content="{{ siteurl }}{{ sitepath }}{{ selifpath }}{{ filename }}" />
+{% endblock %}
+
+{% block main %}
+<audio class="display-audio" controls preload='auto'>
+    <source src='{{ sitepath }}{{ selifpath }}{{ filename }}'>
+    <a href='{{ sitepath }}{{ selifpath }}{{ filename }}'>Download it instead</a>
+</audio>
+{% endblock %}
