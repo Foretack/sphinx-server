@@ -104,8 +104,7 @@ linx-server -config yourconf.conf
 
 ### Updating (Coming soon)
 
-This process is automatic and runs daily at 5 AM.
-To maulally update run
+To manually update, run
 ```
 linx-update
 ```
