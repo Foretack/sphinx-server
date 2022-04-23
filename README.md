@@ -24,6 +24,9 @@ A self-hosted file/media sharing website. Its primary use is for temporay file h
 - New theme and UI tweaks
 - New, updated custom icon
 - Release pre-built executables (Including one for the Pi)
+
+
+### Coming soon!
 - Improve how password protected files are handled - v3.1.0
 - Add support for displaying RAW text - v3.2.0
 - Support generating QR codes - v3.3.0
